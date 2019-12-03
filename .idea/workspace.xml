@@ -13,6 +13,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
@@ -104,6 +107,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1UUTkH7bhADcE8j0rnUdyTTYN36" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -119,6 +123,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -153,7 +158,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575410316234</updated>
-      <workItem from="1575410334223" duration="3070000" />
+      <workItem from="1575410334223" duration="3650000" />
     </task>
     <servers />
   </component>
@@ -161,10 +166,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575414586793">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state x="320" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1152.824@0.0.1152.824" timestamp="1575414586793" />
+    <state x="330" y="2" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575414742456">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state x="330" y="2" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1152.824@0.0.1152.824" timestamp="1575414742456" />
+    <state x="356" y="166" key="FileChooserDialogImpl" timestamp="1575414434993">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state x="356" y="166" key="FileChooserDialogImpl/0.0.1152.824@0.0.1152.824" timestamp="1575414434993" />
+    <state x="316" y="226" key="NewPhpClassDialog" timestamp="1575414670964">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state x="316" y="226" key="NewPhpClassDialog/0.0.1152.824@0.0.1152.824" timestamp="1575414670964" />
     <state x="410" y="335" key="NewPhpFileDialog" timestamp="1575410699418">
       <screen x="0" y="0" width="1152" height="824" />
     </state>
     <state x="410" y="335" key="NewPhpFileDialog/0.0.1152.824@0.0.1152.824" timestamp="1575410699418" />
+    <state x="77" y="54" key="SettingsEditor" timestamp="1575414435765">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state x="77" y="54" key="SettingsEditor/0.0.1152.824@0.0.1152.824" timestamp="1575414435765" />
     <state x="277" y="235" key="com.intellij.ide.util.TipDialog" timestamp="1575410352688">
       <screen x="0" y="0" width="1152" height="824" />
     </state>
